@@ -1,0 +1,13 @@
+Linux is an open source operating system.
+linux kernel version 6.8
+Ubuntu 26.04 LTS
+Debian and Fedora are Linux distributions.
+email: hong@example.com
+email: kim.test@example.com
+phone: 010-0000-1234
+phone: 02-000-1234
+GNU gcc compiler
+make and Makefile
+# this is a comment line
+
+the end

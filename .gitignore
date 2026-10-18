@@ -1,0 +1,11 @@
+*.o
+*.a
+*.so
+gmon.out
+calc/calc_static
+calc/calc_shared
+calc/calc_dynamic
+calc/calc_prof
+assert/assert_test
+assert/assert_test_ndebug
+captures/

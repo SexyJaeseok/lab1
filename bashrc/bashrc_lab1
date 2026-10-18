@@ -1,0 +1,12 @@
+
+# lab1 수정
+alias ll='ls -alF'
+alias c='clear'
+alias h='history 20'
+alias lab1='cd "/mnt/c/Users/pjs07/OneDrive/바탕 화면/3학년 2학기/오픈소스프로젝트/lab1"'
+
+PS1='\[\e[1;32m\][\u@\h \W]\$\[\e[0m\] '
+
+HISTSIZE=2000
+HISTFILESIZE=5000
+HISTCONTROL=ignoredups
